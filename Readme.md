@@ -7,7 +7,7 @@ This is a single page webpage utilizing Javascript for dynamic additions and smo
 No installation required
 
 ```bash
-N/A
+None
 ```
 
 ## Usage
